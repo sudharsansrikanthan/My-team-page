@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://sudharsansrikanthan.github.io/My-team-page//src/html/index.html">
       Demo
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://sudharsansrikanthan.github.io/My-team-page//src/html/index.html">
       Solution
     </a>
     <span> | </span>
@@ -35,7 +35,10 @@
 
 ## Overview
 
-Screenshot of the result for the challenge will be displayed here.
+![screenshot1](https://github.com/sudharsansrikanthan/My-team-page/blob/master/screenshot1.png)
+![screenshot2](https://github.com/sudharsansrikanthan/My-team-page/blob/master/screenshot2.png)
+
+Screenshot of the result for the challenge is displayed here.
 
 ## Features
 
