@@ -35,8 +35,8 @@
 
 ## Overview
 
-![screenshot1](https://github.com/sudharsansrikanthan/My-team-page/blob/master/screenshot1.png)
-![screenshot2](https://github.com/sudharsansrikanthan/My-team-page/blob/master/screenshot2.png)
+![screenshot1](https://github.com/sudharsansrikanthan/My-team-page/blob/master/Screenshot1.png)
+![screenshot2](https://github.com/sudharsansrikanthan/My-team-page/blob/master/Screenshot2.png)
 
 Screenshot of the result for the challenge is displayed here.
 
